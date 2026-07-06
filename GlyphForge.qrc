@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GlyphForge.qmlproject</file>
+        <file>GlyphForge/GlyphForge.qml</file>
+        <file>GlyphForge/GlyphForgeSettings.qml</file>
+        <file>GlyphForge/GridViewIcons.qml</file>
+        <file>GlyphForge/IconInfo.qml</file>
+        <file>GlyphForge/IconInfoCounts.qml</file>
+        <file>GlyphForge/IconInfoScan.qml</file>
+        <file>GlyphForge/IconInfoSizes.qml</file>
+        <file>GlyphForge/IconInfoView.qml</file>
+        <file>GlyphForge/icons/check.png</file>
+        <file>GlyphForge/icons/folder.png</file>
+        <file>GlyphForge/icons/menu_open.png</file>
+        <file>GlyphForge/icons/more_vert.png</file>
+        <file>GlyphForge/icons/settings.png</file>
+        <file>GlyphForge/icons/sync.png</file>
+        <file>GlyphForge/icons/trash_01.png</file>
+        <file>GlyphForge/icons/troubleshoot.png</file>
+        <file>GlyphForge/IconsView.qml</file>
+        <file>GlyphForge/MenuPane.qml</file>
+        <file>GlyphForge/MenuPaneSettings.qml</file>
+        <file>GlyphForge/PathPanel.qml</file>
+        <file>GlyphForge/qmldir</file>
+        <file>GlyphForge/SideBar.qml</file>
+        <file>GlyphForge/SpacerRectH.qml</file>
+        <file>GlyphForge/UpdatePanel.qml</file>
+        <file>GlyphForge/UpdatePanelMenu.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>GlyphForge/Controls/MaterialButton.qml</file>
+        <file>GlyphForge/Controls/qmldir</file>
+        <file>GlyphForge/Style/Icons.qml</file>
+        <file>GlyphForge/Style/qmldir</file>
+        <file>GlyphForge/Style/Theme.qml</file>
+        <file>GlyphForge/GridViewIconsMenu.qml</file>
+        <file>GlyphForge/Controls/MaterialFlatButton.qml</file>
+        <file>GlyphForge/SimpleDialog.qml</file>
+        <file>GlyphForge/icons/icon.png</file>
+        <file>GlyphForge/icons/icon.ico</file>
+    </qresource>
+</RCC>
