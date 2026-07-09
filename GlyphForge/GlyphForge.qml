@@ -15,10 +15,6 @@ Rectangle {
     Material.accent: settings.accent
     GlyphForgeSettings { id: settings }
 
-    onWidthChanged: {
-        console.log(width)
-    }
-
     IconsView { id: iconsView }
     SideBar { id: sideBar }
     MenuPane { id: menuPane }
@@ -45,7 +41,6 @@ Rectangle {
             settings.scanElapsedMs = glyphScanner.scanElapsedMs;
         }
     }
-
 }
 
 

@@ -30,6 +30,7 @@ Settings {
     property string qmlSelectedFilePath: ""
     property string iconsFolderPath: ""
     property string projectScanPath: ""
+    property string iconsPath: ""
     property bool showIconDetails: true
     property int scanElapsedMs: 0
 

@@ -38,5 +38,6 @@
         <file>GlyphForge/SimpleDialog.qml</file>
         <file>GlyphForge/icons/icon.png</file>
         <file>GlyphForge/icons/icon.ico</file>
+        <file>GlyphForge/icons/add.png</file>
     </qresource>
 </RCC>

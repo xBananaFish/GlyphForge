@@ -11,4 +11,5 @@ QtObject {
 	readonly property url sync: Qt.resolvedUrl('../icons/sync.png')
 	readonly property url trash_01: Qt.resolvedUrl('../icons/trash_01.png')
 	readonly property url troubleshoot: Qt.resolvedUrl('../icons/troubleshoot.png')
+	readonly property url add: Qt.resolvedUrl('../icons/add.png')
 }
